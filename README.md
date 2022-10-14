@@ -5,4 +5,4 @@ Använd följande i terminalen för att installera paket som behövs:
 
 pip install -r requirements.txt
 
-Alternativt låter ni pycharm installera paketen.
+Alternativt låter ni pycharm installera paketen
